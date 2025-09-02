@@ -19,12 +19,14 @@ Este é um projeto simples de uma loja de eletrônicos estática, criado em HTML
 
 ## 🔹 Estrutura do Projeto
 
-1-tarefa/
+```
+📂 1-tarefa/
 │
-├─ index.html # Página principal
-├─ style.css # Estilos da página
-├─ img/ # Pasta com imagens dos produtos
-└─ README.md # Este arquivo
+├─ 📄 index.html   # Página principal
+├─ 🎨 style.css    # Estilos da página
+├─ 📂 img/         # Pasta com imagens dos produtos
+└─ 📄 README.md    # Este arquivo
+```
 
 
 ---
