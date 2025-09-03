@@ -1,6 +1,7 @@
 # Minha Loja de Eletrônicos
 
-Este é um projeto simples de uma loja de eletrônicos estática, criado em HTML e CSS. Ele exibe produtos com imagem, nome, preço e botão de compra, além de um mapa integrado no rodapé.
+Este é um projeto simples de uma loja de eletrônicos estática, criado em HTML e CSS. Ele exibe produtos com imagem, nome, preço e botão de compra, além de um mapa integrado no rodapé. Usando também como prática do gitflow.
+
 
 ---
 
